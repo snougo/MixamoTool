@@ -1,4 +1,4 @@
-# MixamoTool
+# BlenderMixamoToolkit
 This is a Blender Mixamo Toolkit that includes two plugins: one for automatically processing the import of Mixamo animation models and another for adding root motion to all imported animations with a single click.
 works for 4.2.3LTS
 
